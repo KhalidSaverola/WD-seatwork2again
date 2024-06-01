@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Armamento's Personal Resume</title>
-    <link rel="stylesheet" href="./assets/css/style.css">
+    <title>SAVEROLA's Personal Resume</title>
+    <link rel="stylesheet" href="./ASSETS/CSS/style.css">
 </head>
 <body>
     <div id="header">
         <div class="container">
             <nav>
-                <img src="./assets/img/Logo__1_-removebg-preview.png" class="logo" alt="Security Logo">
+                <img src="./ASSETS/CSS/IMG/LOGOKO.png" class="logo" alt="LOGOKO">
                 <ul>
                     <li><a href="#Home">Home</a></li>
                     <li><a href="#overview">Overview</a></li>
@@ -28,7 +28,7 @@
         </div>
     </div>
     <div id="counter">
-        <img src="https://visit-counter.vercel.app/counter.png?page=Armamentum/WD-Resume-Armamento">
+        <img src="https://visit-counter.vercel.app/counter.png?page=SAVEROLA/WD-seatwork2again">
     </div>
     <!-- Overview Section -->
     <div id="overview" class="section">
@@ -105,8 +105,8 @@
                     </tr>
                     <tr>
                         <td>Canva Logo for business</td>
-                        <td>free logo from canva used for the logo in this resume</td>
-                        <td><a href="https://www.canva.com/">  https://www.canva.com/</a></td>
+                        <td>free logo from google used for the logo in this resume</td>
+                        <td><a href="https://www.google.com/">  https://www.canva.com/</a></td>
                     </tr>
                     <tr>
                         <td>Remove bg</td>
@@ -121,7 +121,7 @@
         <div class="container">
             <h2>Contact</h2>
             <p>If you have any questions, feel free to contact me at:</p>
-            <p>Email: 202310044@fit.edu.ph</p>
+            <p>Email: 202312369@fit.edu.ph</p>
         </div>
     </div>
 </body>
